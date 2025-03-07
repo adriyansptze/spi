@@ -22,7 +22,7 @@ export function Home(){
                     <div className="flex flex-col col-span-6 text-left justify-center">
                         
                         <h1 className="text-gray-700 text-xl pb-4 font-semibold">LATAR BELAKANG PERUSAHAAN</h1>
-                        <p className="text-gray-600 pr-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde rerum obcaecati sint quia temporibus laboriosam, eaque odio maxime reprehenderit placeat voluptas voluptatibus explicabo quo dolorem mollitia fuga, et earum neque. Laudantium, amet, praesentium error earum dicta molestias ad beatae quisquam ab nam obcaecati id consequuntur soluta mollitia voluptatibus, suscipit recusandae?</p>
+                        <p className="text-gray-600 pr-4"> PT. SCARLET POWER INDONESIA adalah perusahaan outsource service yang bergerak dalam bidang AC (Air Conditioner). Layanan kami mencakup penjualan, pemasangan, perawatan, dan servis AC. Didukung oleh tim teknisi berpengalaman dan profesional, kami berkomitmen untuk memberikan layanan berkualitas yang memenuhi kebutuhan setiap pelanggan.</p>
 
                     </div>
 
@@ -37,11 +37,12 @@ export function Home(){
                 <div className="text-left py-4">
                         
                         <h1 className="text-gray-700 text-xl font-semibold">VISI</h1>
-                        <p className="text-gray-600 pt-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, quod facilis ipsam, assumenda rem amet, enim quaerat doloremque quibusdam dolorem esse. Ullam odit impedit, iusto quae consequuntur sequi reiciendis delectus?</p>
+                        <p className="text-gray-600 pt-4">Menjadi perusahaan terdepan di bidang jasa perawatan spesialis pendingin yang mengutamakan profesionalisme kerja serta pelayanan prima dengan sepenuh hati.</p>
 
                         <h1 className="text-gray-700 text-xl pt-4 font-semibold">MISI</h1>
-                        <p className="text-gray-600 pt-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, quod facilis ipsam, assumenda rem amet, enim quaerat doloremque quibusdam dolorem esse. Ullam odit impedit, iusto quae consequuntur sequi reiciendis delectus?</p>
-
+                        <p className="text-gray-600 pt-4">1. Mengutamakan kepuasan klien</p>
+                        <p className="text-gray-600 pt-4">2. Menangani semua keluhan yang terjadi dengan customer</p>
+                        <p className="text-gray-600 pt-4">3. Membantu meringankan beban customer secara berkelanjutan</p>
                 </div>  
                 <Heading title="KLIEN KAMI"/>
                 
